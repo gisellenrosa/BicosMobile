@@ -2,9 +2,9 @@
 
 `Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de uma Aplicação Interativa `
+`Projeto: Desenvolvimento de uma Aplicação Mobile `
 
-`2º semestre`
+`3º semestre`
 
 
 <img src='https://user-images.githubusercontent.com/55036173/195727967-4896ae0e-363f-4b09-8132-25bc1362c113.png'/>
@@ -14,21 +14,18 @@ Priorizando a Saúde é uma aplicação que pretende facilitar o processo de mar
 
 ## Integrantes
 
-* Giselle Nepomuceno Rosa
-* Lucas de Oliveira Borges
-* Fellipe Henrique Pastor Pereira
-* João Pedro Pereira Santos
-* Luiz Fellipe Pereira Pires 
-* Guilherme Gomes
+* <a href="https://www.linkedin.com/in/gisellenrosa/">Giselle Nepomuceno Rosa</a>
+* <a href="https://github.com/Andre98B">André Barone</a>
+* <a href="https://www.linkedin.com/in/philipe-rocha-0684021b2">Philipe Rocha</a>
+* <a href="https://github.com/Trafani">Vitor Trafani</a>
+* <a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a>
+* <a href="https://github.com/Jandeoli77">Janaina Rodrigues</a>
+
 
 ## Orientador
 
-* Luciana De Nardin
+* Diego Silva Caldeira Rocha
 
-## Instruções de utilização
-
-Link para acesso à aplicação: 
-https://onmedical.azurewebsites.net
 
 # Documentação
 
