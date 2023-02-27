@@ -1,4 +1,4 @@
-# Priorizando a Saúde
+# Bicos
 
 `Tecnologia em Análise e Desenvolvimento de Sistemas`
 
@@ -7,19 +7,16 @@
 `3º semestre`
 
 
-<img src='https://user-images.githubusercontent.com/55036173/195727967-4896ae0e-363f-4b09-8132-25bc1362c113.png'/>
-
-
-Priorizando a Saúde é uma aplicação que pretende facilitar o processo de marcação de consultas. As pessoas perdem bastante tempo ligando para uma clinica para agendar uma consulta/exame, o que o leva muitas vezes a procrastinação, podendo até ocasionar em um agravamento na saúde. Com o site priorizando saúde os pacientes podem agendar sua consulta online, melhorando o sistema de marcação e o tornando mais rápido e eficaz para o paciente além de auxiliar na organização da agenda do médico.
+Bicos é uma aplicação que pretende facilitar a busca por empregos de diversos tipos de contrato. Muitas pessoas estão com objetivos a longo prazo de conseguirem a dependencia financeira, e muitas delas procuram empregos temporários como renda extra, bicos é uma app que busca conectar as pessoas com seus objetivos profissionais de curto, médio até mesmo a longo prazo. Com o aplicativo Bicos é possível cadastrar o seu perfil e se inscrever em vagas disponiveis.
 
 ## Integrantes
 
 * <a href="https://www.linkedin.com/in/gisellenrosa/">Giselle Nepomuceno Rosa</a>
 * <a href="https://github.com/Andre98B">André Barone</a>
 * <a href="https://www.linkedin.com/in/philipe-rocha-0684021b2">Philipe Rocha</a>
-* <a href="https://github.com/Trafani">Vitor Trafani</a>
+* <a href="https://github.com/PedroVictor022">Pedro Victor</a>
 * <a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a>
-* <a href="https://github.com/Jandeoli77">Janaina Rodrigues</a>
+* <a href="https://github.com/RafaelPereira7L">Rafael Pereira</a>
 
 
 ## Orientador
