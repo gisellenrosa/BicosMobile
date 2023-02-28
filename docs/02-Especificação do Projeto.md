@@ -76,11 +76,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | Alta | 
-|RNF-002| O sistema deverá usar o SEO do google para aparecer nas pesquisas do buscador|  Media |
-|RNF-002| O back-end devera ser densevolvido em C#|  Alta |
-|RNF-002| O sistema deverá seguir as normas da LGPD|  Alta |
-|RNF-002| O sistema deve ser publicado em um ambiente acessível publicamente na internet (GitHub Pages, Hostinguer);|  Alta |
+|RNF-001| O App deve operar em dispositivos móveis no ANDROID e IOS | ALTA | 
+|RNF-001| O App possuirá responsividade para atender os dispositivos móveis | ALTA | 
+|RNF-002| O App deve ter bom nível de contraste entre os elementos da tela em conformidade| MÉDIA |
+|RNF-003| O App deverá seguir as normas da LGPD| ALTA |
+|RNF-002| O App não deve consumir mais que 10GB de memória ao realizar seu download | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
