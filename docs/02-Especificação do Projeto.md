@@ -77,10 +77,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O App deve operar em dispositivos móveis no ANDROID e IOS | ALTA | 
-|RNF-001| O App possuirá responsividade para atender os dispositivos móveis | ALTA | 
-|RNF-002| O App deve ter bom nível de contraste entre os elementos da tela em conformidade| MÉDIA |
-|RNF-003| O App deverá seguir as normas da LGPD| ALTA |
-|RNF-002| O App não deve consumir mais que 10GB de memória ao realizar seu download | BAIXA |
+|RNF-002| O App possuirá responsividade para atender os dispositivos móveis | ALTA | 
+|RNF-003| O App deve ter bom nível de contraste entre os elementos da tela em conformidade| MÉDIA |
+|RNF-004| O App deverá seguir as normas da LGPD| ALTA |
+|RNF-005| O App não deve consumir mais que 10GB de memória ao realizar seu download | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
