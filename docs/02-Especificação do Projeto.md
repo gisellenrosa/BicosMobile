@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da coleta de dados dos usuários em seu local natural. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da coleta de dados dos usuários. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
@@ -33,13 +33,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Juliana Brancis    | Eficiencia e agilidade na marcação| Facilitar e agilizar a marcacão dos pacientes  |
-|Juliana Brancis    | Visualizar as marcações | organizar melhor a agenda |
-|Juliana Brancis    | Gerenciar os dados dos  pacientes | Facilidade na organização dos dados dos pacientes |
-|Mario Dantas        | Realizar a marcação de consultas/exames | Marcar consultas com rapidez |
-|Mario Dantas        | Realizar alteração de consultas/exames | Facilidade em gerenciar datas da marcação |
-|Mario Dantas        | Visualizar a marcação de consultas e exames | Evitar esquecimento de datas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Juliana Brancis    | Encontrar um emprego formal ou informal |  Candidaturas de forma facil |
+|Juliana Brancis    | Ser capaz de cadastrar curriculo único | não precisar escrever curriculos pra todo lugar |
+|Mario Dantas       | Filtrar as vagas por área | Facilitar encontrar vagas especificas   |
+|Mario Dantas       | Visualizar a marcação de consultas e exames | Evitar esquecimento de datas |
+|Marcelo Melo  |Interface intuitiva e acessível | Encontrar um bicos voltado aos hobby   |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
