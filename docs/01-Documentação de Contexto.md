@@ -22,9 +22,9 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Público-Alvo
 
-Os avanços tecnológicos na área da saúde contribuem tanto para que os processos hospitalares/clínicos, quanto para os serviços médicos que passam a integrar a dispositivos acessíveis e de fácil uso, facilitando a rotina de trabalho de médicos e demais profissionais que fazem parte do ciclo de atendimento.
+Este aplicativo possui o foco no público que pretente encontrar algum tipo de trabalho de meio período, como forma de complementar a renda ou até mesmo ser o um sustento temporário.
 
-Desta forma, estabeleceu-se como público-alvo desta solução homens ou mulheres de qualquer idade, estando na condição do profissional ou paciente(cliente), que se encontram na condição de usufruir do serviço por meio de computadores ou dispositivos móveis.
+Estabeleceu-se como faixa etária ideal desse projeto, homens e mulheres com interesse em utilizar suas competências e habilidades a prol de ganhar dinheiro momentâneo. Com isso, o maior foco são pessoas acima de 18 anos.
 
 ## Referencias
 
