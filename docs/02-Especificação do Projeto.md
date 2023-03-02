@@ -4,7 +4,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|    `Nome`: Juliana Silveira Brancis  | `Profissão`: Médica Cardiologista        |     `Idade`: 38 Anos    |
+|    `Nome`: Juliana Silveira Brancis  | `Profissão`: Desempregada       |     `Idade`: 38 Anos    |
 |--------------------|------------------------------------|----------------------------------------|
 | <img width="250" alt="image" src="https://user-images.githubusercontent.com/55036173/188963711-7db4ab2c-ea9d-4674-83e6-b1c8f8f4fb90.png">| `Motivações`: <br>  Organização no agendamento de pacientes <br> <br>  Facilidade para consultar agendamentos do dia  <br> <br> Facilidade na marcação de pacientes   |  `Frustrações`: <br>  Desorganização de agenda  <br> <br> Falta de facilidade na confirmação dos agendamentos <br><br>                    
 |  `Hobbies`: |   `História`:  | `Personalidade`:  |
@@ -13,16 +13,16 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |    `Nome`: Mario José Dantas  | `Profissão`: Desenvolvedor         |     `Idade`: 32 Anos    |
 |--------------------|------------------------------------|----------------------------------------|
-| <img width="250" alt="image" src="https://user-images.githubusercontent.com/55036173/188989388-76071b6b-c8b8-41e2-9f92-fa8ddb89d5c3.png">| `Motivações`: <br>  Otimizar tempo <br> <br> Ter um site para conferir marcações  <br> <br> Facilidade na marcação de consultas |  `Frustrações`: <br>   Perder tempo telefonando para clinicas <br> <br> Dificuldade na confirmação do agendamento <br><br> Esquecimento da data de marcação            
+| <img width="250" alt="image" src="https://user-images.githubusercontent.com/55036173/188989388-76071b6b-c8b8-41e2-9f92-fa8ddb89d5c3.png">| `Motivações`: <br>  Aumentar rendimentos <br> <br> Criar seu próprio portifolio de trabalhos externos  <br> <br> Conhecimento na área |  `Frustrações`: <br>   Pouco tempo sobrando para trabalhar <br> <br> Cansaço de trabalhar com tecnologia o dia inteiro <br><br> Pressão da paternidade           
 |  `Hobbies`: |   `História`:  | `Personalidade`:  |
-| <br> Jogar Games  <br><br> Ouvir música livre<br><br> Conhecer tecnologias novas <br> <br>        | Mario José é um desenvolvedor focado<br> durante sue horario de trabalho, Mario se preocupa com a saúde <br>mas acaba indo pouco ao médico por falta de organização    <br>        | Desorganizado <br><br> Introvertido <br><br> Metodico  <br>    |
+| <br> Jogar Games  <br><br> Ouvir música livre<br><br> Conhecer tecnologias novas <br> <br>        | Mario José é um desenvolvedor focado<br>  Mário precisa fazer renda extra pois sua família está crescendo <br> mario gosta de webdesign e adora programação, está a procura de empregos informais na sua área de atuação.    <br>        | Desorganizado <br><br> Introvertido <br><br> Metodico  <br>    |
 
 
-|    `Nome`: Marcelo Belchior  | `Profissão`: Aposentado         |     `Idade`: 70 Anos    |
+|    `Nome`: Marcelo Belchior Melo  | `Profissão`: Aposentado         |     `Idade`: 70 Anos    |
 |--------------------|------------------------------------|----------------------------------------|
-| <img width="250" alt="image" src="https://user-images.githubusercontent.com/100283917/189008834-552789bd-d695-44eb-80f3-22b56fe5610e.jpg">| `Motivações`: <br>  Se cuidar mais <br> <br> Atendimento ágil  <br> <br> Facilidade de comunicação com hospital |  `Frustrações`: <br>   Ter de ir a hospitais muitas vezes <br> <br> Dificuldade na locomoção <br><br> Longa espera para o atendimento            
+| <img width="250" alt="image" src="https://user-images.githubusercontent.com/100283917/189008834-552789bd-d695-44eb-80f3-22b56fe5610e.jpg">| `Motivações`: <br>   <br> <br> Distração  <br> <br> Trabalhar por hobby |  `Frustrações`: <br>   Não conseguir emprego no trabalho formal <br> <br> Idade avançada <br><br>            
 |  `Hobbies`: |   `História`:  | `Personalidade`:  |
-| <br> Ler  <br><br> Jogos de mesa<br><br> Conversar com as pessoas <br> <br>        | Marcelo é aposentado e sofre com osteoporose<br> Devido a doença têm mobilidade reduzida e precisa de <br>cuidados no dia a dia, tornando difícel ir a hospitais   <br>        | Esforçado <br><br> Sério <br><br> Sábio  <br>    |
+| <br> Ler  <br><br> Jogos de mesa<br><br> Conversar com as pessoas <br> <br>        | Marcelo é um professor aposentado e se sente desmotivado com a sua rotina,<br> sempre foi uma pessoa ativa que gostou de trabalhar  quer voltar a ser a como antes e usar aprender sobre novas áreas. Ele tem se interessado pela área de pet, e quer aprender a trabalhar cuidando de cachorros.   <br>        | Esforçado <br><br> Sério <br><br> Sábio  <br>    |
 
 
 
