@@ -58,17 +58,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação devera possuir uma lading page explicando detralhes sobre o serviço fornecido. | ALTA |
-|RF-002| A aplicação deve gerenciar médicos. Para um médico se cadastrar é necessário: CNPJ, NOME , E-MAIL, TELEFONE, SENHA, ESPECIALIDADE e ENDEREÇO | ALTA | 
-|RF-003| A aplicação deve gerenciar pacientes. Para um paciente se cadastrar é necessário: CPF, NOME , E-MAIL, TELEFONE e SENHA. | ALTA |
-|RF-004| A aplicação deve mostrar para o usuário todos as agendas cadastradas. | Baixa | 
-|RF-005| A aplicação deverá mostrar uma agenda por médico.| ALTA | 
-|RF-006| A aplicação deverá permitir que o médico gerencie sua agenda.  | MÉDIA |
-|RF-007| A aplicação deverá permitir que o médico tenha informações dos seus pacientes. | Baixa | 
-|RF-008| A aplicação deverá permitir que o paciente gerencie suas consultas de acordo com a disponibilidade do médico. | Alta |
-|RF-009| A aplicação deverá permitir que o usuario tenha as infomações de contato do médico. | ALTA | 
-|RF-010| A aplicação deverá permitir que o usuario faça login. | ALTA |
-|RF-011| A aplicação deverá permitir que o usuario pesquise  a agenda cadastrada, pela data, especialidade e/ou nome. | MÉDIA | 
+|RF-001| A aplicação deverá possuir uma apresentação breve do aplicativo | BAIXA |
+|RF-002| A aplicação deverá cadastrar dois tipos de usuários, o contratatante e o contratado | ALTA | 
+|RF-003| A aplicação deverá permitir a edição do perfil desses usuários | ALTA | 
+|RF-004| A aplicação terá um perfil de usuário para o contratado com suas qualificações e preferências | ALTA | 
+|RF-005| A aplicação deverá permitir o contratante criar oportunidades de serviço | ALTA|
+|RF-006| A aplicação deverá permitir o contratante selecionar a categoria do serviço em questão.| MEDIA |
+|RF-007| A aplicação deverá exibir as especificações de cada serviço aos contratados como VALOR, LOCAL, PERÍODO e FUNÇÃO | ALTA |
+|RF-009| A aplicação deve permitir que o contratado canditate-se as oportunidades de serviço | ALTA | 
+|RF-010| A aplicação deverá possuir a funcionalidade de busca e filtragem das oportunidades de serviço | BAIXA |
+|RF-011| A aplicação deverá sugerir serviços aos contratados baseando-se em seus dados pessoais | MEDIA | 
+|RF-012| A aplicação deverá permitir que os usuários tenham as infomações de contato de ambos | ALTA | 
+|RF-013| A aplicação deverá permitir que os usuários façam o login e loggout | ALTA |
+|RF-014| A aplicação deverá possuir o contratante avaliar o contratado e vice-versa após o serviço | BAIXA |
 
 
 
@@ -104,7 +106,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do segundo semestre de 2022 |
-|02| O projeto não possue orçamento |
+|02| O projeto não possui orçamento |
 |03| O projeto deve possuir apenas 6 integrantes |
 
 
