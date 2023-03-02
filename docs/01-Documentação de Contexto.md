@@ -6,7 +6,7 @@ O uso da tecnologia como  uma facilitadora na busca de emprego vem inovando ao d
 
 
 ## Problema
-Conforme exposto, o problema que se busca resolver com este projeto é alcançar mais eficiência nos canais de atendimento de hospitais/clínicas tradicionais, com agilidade e também segurança, já que recebe muitos doentes, que torna o ambiente desses lugares impróprio para a circulação de pessoas.
+O problema visa auxiliar a busca por vagas no mercado com foco no mercado de trabalho informal, sejam elas presenciais ou remotas. A ideia não se restringe apenas a vagas informais, no entanto trás uma plataforma que busca sanar a busca de empregos daqueles que buscam uma renda extra, ou uma oportunidade de crescimento e conhecimento em áreas diversas. 
 
 ## Objetivos
 
