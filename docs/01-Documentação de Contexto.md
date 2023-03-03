@@ -3,7 +3,7 @@
 
 A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso de redes sociais, e até mesmo hoje com o crescimento do trabalho remoto. Após pandemia  notamos o crescimento no uso da tecnologia, inclusive a adaptação ao trabalho remoto. A tecnologia abre portas para o conhecimento, seja ele através do estudo ou trabalho. Hoje muitas pessoas ao procurarem emprego ou freelancers recorrem a internet e aplicativos. 
 
-Segundo o IBGE no segundo semestre de 2022 cerca de 25% das pessoas desocupadas ainda estavam procurando vaga há mais de dois anos (ISTOÉ DINHEIRO, 2023). 
+Segundo o IBGE no segundo semestre de 2022 cerca de 25% das pessoas desocupadas ainda estavam procurando vaga há mais de dois anos (ISTOÉ DINHEIRO, 2023). Estima-se que o trabalho iformal atingem 13,2 milhões de pessoas. 
 
 Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. 
 
