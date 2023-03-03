@@ -1,8 +1,11 @@
 # Introdução
 
-A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso de redes sociais, e até mesmo hoje com o crescimento do trabalho remoto é possível ver pessoas trabalhando em casa, e se utilizando da tecnologia para isso. Estudo, trabalho, a enciclopédia que outrora era um livro hoje bata pesquisar no google. Através da internet e aplicativos a busca por empregos deixou de ser o velho porta a porta para se tornar um clique ao enviar o curriculo.
 
-O uso da tecnologia como  uma facilitadora na busca de emprego vem inovando ao decorrer do tempo,  Durante a pandemia devido o coronavirus não era recomendada sair de casa e a busca por empregos online cresceu exponencialmente ao médico em caso de sintomas, para evitar o contagio, e foi preciso  focar em uma modalidade já existente e pouco utilizada até o momento, e assim se torna comum as consultas para o ambiente virtual. Com o aumento do uso da telemedicia, devido a recomendação um novo habito surge. ainda segundo Fernandes(2021) Essa gestão está diretamente relacionada a agilidade do atendimento, uma vez que os hospitais não ficam sobrecarregados. 
+A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso de redes sociais, e até mesmo hoje com o crescimento do trabalho remoto. Após pandemia  notamos o crescimento no uso da tecnologia, inclusive a adaptação ao trabalho remoto. A tecnologia abre portas para o conhecimento, seja ele através do estudo ou trabalho. Hoje muitas pessoas ao procurarem emprego ou freelancers recorrem a internet e aplicativos. 
+
+Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. 
+
+O app bicos foi idealizado com a intenção de facilitar a realização de metas do trabalhador brasileiro conectando ele com formas de ampliar a renda.  O intuito é que o individuo possa se desenvolver e crescer através do trabalho formal ou informal de curto ou longo periodo.  A aplicação quer tornar mais proxima a conexão entre a procura e oferta. Seja dos trabalhadores autonomos aos de carteira assinada.
 
 
 ## Problema
@@ -28,6 +31,6 @@ Estabeleceu-se como faixa etária ideal desse projeto, homens e mulheres com int
 
 ## Referencias
 
-De que maneira a pandemia mostrou a importância do uso da tecnologia na saúde. [S. l.], 23 nov. 2021. Disponível em: https://g1.globo.com/mg/sul-de-minas/especial-publicitario/inatel/tecnologia-e-voce/noticia/2021/11/23/de-que-maneira-a-pandemia-mostrou-a-importancia-do-uso-da-tecnologia-na-saude.ghtml. Acesso em: 18 ago. 2022.
+VC/SA. Em meio à crise, esta startup de recrutamento captou R$ 40 milhões. Empreendedorismo, [s. l.], 15 maio 2020. Disponível em: https://vocesa.abril.com.br/empreendedorismo/startup-de-recrutamento-online/. Acesso em: 2 mar. 2023.
 
-A TECNOLOGIA como fator essencial no atendimento pré-hospitalar. [S. l.], 7 jul. 2020. Disponível em: https://medicinasa.com.br/artigo-fabio-fernandes/. Acesso em: 22 ago. 2022.
+DIGILANDIA. Como funciona o recrutamento e processo seletivo online. Transformação digital, [s. l.], 24 maio 2020. Disponível em: https://digilandia.io/transformacao-digital/recrutamento-e-processo-seletivo-online/. Acesso em: 2 mar. 2023.
