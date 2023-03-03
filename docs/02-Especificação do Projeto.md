@@ -34,10 +34,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Juliana Brancis    | Encontrar um emprego formal ou informal |  Candidaturas de forma facil |
-|Juliana Brancis    | Ser capaz de cadastrar curriculo único | não precisar escrever curriculos pra todo lugar |
+|Juliana Brancis    | Ser capaz de cadastrar curriculo único | não precisar escrever varios curriculos pra cada vaga |
 |Mario Dantas       | Filtrar as vagas por área | Facilitar encontrar vagas especificas   |
-|Mario Dantas       | Visualizar a marcação de consultas e exames | Evitar esquecimento de datas |
-|Marcelo Melo  |Interface intuitiva e acessível | Encontrar um bicos voltado aos hobby   |
+|Mario Dantas       | Descrição das vagas | Evitar se inscrever em vagas que não tem perfil  |
+|Marcelo Melo  | Interface intuitiva e acessível | Encontrar um bicos voltado aos hobby   |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
