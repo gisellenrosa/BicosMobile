@@ -116,7 +116,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![Caso de uso Atualizado](https://user-images.githubusercontent.com/58198111/193125578-2a668cad-90a0-4ed4-b41c-897fa659f830.PNG)
+![Caso de uso Atualizado]()
 
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
