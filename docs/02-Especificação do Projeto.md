@@ -25,6 +25,18 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 | <br> Ler  <br><br> Jogos de mesa<br><br> Conversar com as pessoas <br> <br>        | Marcelo é um professor aposentado e se sente desmotivado com a sua rotina,<br> sempre foi uma pessoa ativa que gostou de trabalhar  quer voltar a ser a como antes e usar aprender sobre novas áreas. Ele tem se interessado pela área de pet, e quer aprender a trabalhar cuidando de cachorros.   <br>        | Esforçado <br><br> Sério <br><br> Amante da Natureza  <br>    |
 
 
+|    `Nome`: Luís Antonio Campos  | `Profissão`: Empreendedor       |     `Idade`: 27 Anos    |
+|--------------------|------------------------------------|----------------------------------------|
+| <img width="250" alt="image" src="https://user-images.githubusercontent.com/13721147/194162795-998632ec-3ce9-4959-bd37-d89d362249cf.png">| `Motivações`: <br> Busca uma plataforma que possa ajudá-lo a economizar tempo e lidar com tarefas domésticas, permitindo que ele se concentre em seu trabalho <br> <br>  Gerenciar seu tempo de forma eficaz  <br> <br>     |  `Frustrações`: <br>  Falta de tempo para realizar tarefas domésticas, o que pode causar acúmulo de tarefas e estresse  <br> <br> Dificuldade em encontrar profissionais confiáveis e de qualidade para serviços gerais, como limpeza e reparos em casa <br><br>                    
+|  `Hobbies`: |   `História`:  | `Personalidade`:  |
+| <br> Assistir séries <br><br> Corrida ao ar livre<br><br> Ler livros <br> <br>     | Luís é um jovem empreendedor de 27 anos que está construindo sua carreira como freelancer. Ele mora sozinho em um pequeno apartamento e passa a maior parte do tempo trabalhando em projetos para seus clientes. Ele não tem muito tempo livre para fazer tarefas domésticas, como limpeza e compras, e está procurando uma plataforma que possa ajudá-lo a ter mais tempo livre para se concentrar em seu trabalho.  <br>            | Comunicativo  <br><br> Persistente <br><br> Determinado<br>   |
+
+|    `Nome`: Clara Rosângela Almada  | `Profissão`: Fotógrafa Profissional       |     `Idade`: 30 Anos    |
+|--------------------|------------------------------------|----------------------------------------|
+| <img width="250" alt="image" src="https://user-images.githubusercontent.com/13721147/194163415-1477a5d7-7985-4c97-bee3-3177eb849e86.png">| `Motivações`: <br> Expandir seu negócio de fotografia <br> <br>  Atrair mais clientes em potencial  <br> <br>  Diversificar seus clientes e tipos de trabalhos  <br> <br>     |  `Frustrações`: <br>  Concorrência acirrada no mercado de fotografia  <br> <br> Dificuldade em encontrar novos clientes <br> <br> Limitações em termos de visibilidade e alcance de sua publicidade <br>  <br>                    
+|  `Hobbies`: |   `História`:  | `Personalidade`:  |
+| <br> Praticar esportes ao ar livre <br><br> Assistir filmes e documentários sobre fotografia<br><br> Apreciar a natureza e paisagens <br> <br>     | Clara é uma fotógrafa profissional de 30 anos que está procurando por uma plataforma que possa ajudá-la a promover seus serviços de fotografia para um público mais amplo. Ela precisa de uma plataforma que seja fácil de usar e que possa ajudá-la a se conectar com clientes em potencial que estão interessados em seus serviços de fotografia. Além disso, ela está procurando por uma plataforma que possa fornecer suporte e orientação em relação à promoção e marketing de seus serviços.  <br>            | Criativa   <br><br> Observadora <br><br> Autêntica<br>   |
+
 
 ## Histórias de Usuários
 
@@ -38,6 +50,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Mario Dantas       | Filtrar as vagas por área | Facilitar encontrar vagas especificas   |
 |Mario Dantas       | Descrição das vagas | Evitar se inscrever em vagas que não tem perfil  |
 |Marcelo Melo  | Interface intuitiva e acessível | Encontrar um bicos voltado aos hobby   |
+|Luís Antonio|De profissionais confiáveis e de qualidade para serviços gerais. | Delegar essas tarefas a pessoas experientes e capacitadas, sem precisar lidar com esses problemas sozinho.  |
+|Clara Rosângela|Uma plataforma para encontrar novos projetos e oportunidades de trabalho na área de fotografia. | Diversificar meus clientes e projetos, expandir meus negócios e aumentar minha renda.  |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
