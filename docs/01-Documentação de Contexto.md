@@ -3,6 +3,8 @@
 
 A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso de redes sociais, e até mesmo hoje com o crescimento do trabalho remoto. Após pandemia  notamos o crescimento no uso da tecnologia, inclusive a adaptação ao trabalho remoto. A tecnologia abre portas para o conhecimento, seja ele através do estudo ou trabalho. Hoje muitas pessoas ao procurarem emprego ou freelancers recorrem a internet e aplicativos. 
 
+Segundo o IBGE no segundo semestre de 2022 cerca de 25% das pessoas desocupadas ainda estavam procurando vaga há mais de dois anos (ISTOÉ DINHEIRO, 2023). 
+
 Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. 
 
 
@@ -35,3 +37,5 @@ Estabeleceu-se como faixa etária ideal desse projeto, homens e mulheres com int
 VC/SA. Em meio à crise, esta startup de recrutamento captou R$ 40 milhões. Empreendedorismo, [s. l.], 15 maio 2020. Disponível em: https://vocesa.abril.com.br/empreendedorismo/startup-de-recrutamento-online/. Acesso em: 2 mar. 2023.
 
 DIGILANDIA. Como funciona o recrutamento e processo seletivo online. Transformação digital, [s. l.], 24 maio 2020. Disponível em: https://digilandia.io/transformacao-digital/recrutamento-e-processo-seletivo-online/. Acesso em: 2 mar. 2023.
+
+ISTOÉ DINHEIRO. 25,6% DOS DESOCUPADOS ESTAVAM BUSCANDO TRABALHO HÁ 2 ANOS OU MAIS. Economia, [s. l.], 28 fev. 2023. Disponível em: https://www.istoedinheiro.com.br/ibge-25-dos-desocupados-estao-buscando-trabalho-ha-2-anos-ou-mais/. Acesso em: 2 mar. 2023.
