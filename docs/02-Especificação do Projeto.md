@@ -103,7 +103,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do segundo semestre de 2022 |
+|01| O projeto deverá ser entregue até o julho 2023 |
 |02| O projeto não possui orçamento |
 |03| O projeto deve possuir apenas 6 integrantes |
 
