@@ -5,7 +5,7 @@ A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso
 
 Segundo o IBGE no segundo semestre de 2022 cerca de 25% das pessoas desocupadas ainda estavam procurando vaga há mais de dois anos (ISTOÉ DINHEIRO, 2023). Estima-se que o trabalho iformal atingem 13,2 milhões de pessoas. 
 
-Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. 
+Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. Encontrar um intermediário confiável entre emrpegador e empregado é um grande desafio hoje. Cabe aos profissionais desafiarem ainda mais a tecnologia a entregar o que é necessário para suprir a necessidade da população
 
 
 
