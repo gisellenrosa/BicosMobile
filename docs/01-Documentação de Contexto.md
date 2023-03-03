@@ -5,7 +5,7 @@ A tecnologia está constantemente presente no dia a dia das pessoas. Seja no uso
 
 Durante a pandemia as empresas precisaram, mais do que nunca, digitalizar os processos de recrutamento e seleção (VC/SA, 2020), o crescimento de recrutamento através do meio digital e as entrevistas online cresceram. 
 
-O app bicos foi idealizado com a intenção de facilitar a realização de metas do trabalhador brasileiro conectando ele com formas de ampliar a renda.  O intuito é que o individuo possa se desenvolver e crescer através do trabalho formal ou informal de curto ou longo periodo.  A aplicação quer tornar mais proxima a conexão entre a procura e oferta. Seja dos trabalhadores autonomos aos de carteira assinada.
+
 
 
 ## Problema
@@ -21,7 +21,8 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-É impossível não perceber o impacto do coronavírus na gestão de hospitais, postos e clínicas. Situações, antes corriqueiras, como a procura por um médico, passaram a ser contraindicadas, como forma de prevenir o contágio. Por receber doentes com sintomas da infecção, o ambiente hospitalar se tornou impróprio para a circulação de pessoas não envolvidas nos atendimentos. Administrar canais de atendimento atua na prevenção de problemas sérios para qualquer instituição: evita que ela seja um foco de contaminação aos pacientes sem sintomas como Covid-19,  evita que o clínica/médico precise lidar com a sobrecarga do sistema trazendo agilidade nos serviços como marcação de consulta, etc.
+O app bicos foi idealizado com a intenção de facilitar a realização de metas do trabalhador brasileiro conectando ele com formas de ampliar a renda.  O intuito é que o individuo possa se desenvolver e crescer através do trabalho formal ou informal de curto ou longo periodo.  A aplicação quer tornar mais proxima a conexão entre a procura e oferta. Seja dos trabalhadores autonomos aos de carteira assinada.
+
 
 ## Público-Alvo
 
