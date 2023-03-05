@@ -184,6 +184,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 A matriz ainda não rastreou todos os artefatos da aplicação pois existem documentações e codificações pendentes.
 Assuntos como casos de teste e diagramas ainda não estão previstos nessa versão da matriz, mas serão implementados ao serem criados.
 
+Link da Matriz em excel:
+https://github.com/gisellenrosa/BicosMobile/blob/6f5448258fbd96aec8020ff6944cd399171099b8/docs/img/MATRIZ%20DE%20RASTREABILIDADE.xlsx
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
