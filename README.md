@@ -7,7 +7,7 @@
 `3º semestre`
 
 
-Bicos é uma aplicação que pretende facilitar a busca por empregos de diversos tipos de contrato. Muitas pessoas estão com objetivos a longo prazo de conseguirem a dependencia financeira, e muitas delas procuram empregos temporários como renda extra, bicos é uma app que busca conectar as pessoas com seus objetivos profissionais de curto, médio até mesmo a longo prazo. Com o aplicativo Bicos é possível cadastrar o seu perfil e se inscrever em vagas disponiveis.
+Bicos é uma aplicação que pretende facilitar a busca por empregos de diversos tipos de contrato. Muitas pessoas estão com objetivos a longo prazo de conseguirem a independência financeira, e muitas delas procuram empregos temporários como renda extra, bicos é uma app que busca conectar as pessoas com seus objetivos profissionais de curto, médio até mesmo a longo prazo. Com o aplicativo Bicos é possível cadastrar o seu perfil e se inscrever em vagas disponiveis.
 
 ## Integrantes
 
