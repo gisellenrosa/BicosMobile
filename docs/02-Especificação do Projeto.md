@@ -207,7 +207,7 @@ Diagrama de tempo que prevê as tarefas a serem realizadas e seu fluxo no app.
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![image](https://user-images.githubusercontent.com/105240089/222992594-d2c29610-920f-4652-90d9-70e843d29a92.png)
 
 ## Gestão de Orçamento
 
