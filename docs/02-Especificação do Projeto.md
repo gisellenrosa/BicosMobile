@@ -150,13 +150,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o julho 2023 |
 |02| Desempenho: Os aplicativos desenvolvidos com React Native podem ter um desempenho inferior em comparação com aplicativos nativos, especialmente em dispositivos mais antigos ou mais lentos. |
 |03| Dependência de módulos nativos: Em alguns casos, pode ser necessário desenvolver módulos nativos personalizados para usar recursos específicos do dispositivo ou integrações com outras tecnologias, como câmera, GPS ou Bluetooth. |
-|04| Dependência de módulos nativos: Em alguns casos, pode ser necessário desenvolver módulos nativos personalizados para usar recursos específicos do dispositivo ou integrações com outras tecnologias, como câmera, GPS ou Bluetooth.s |
-|05| Limitações de UI personalizada: O React Native tem algumas limitações na personalização da interface do usuário em comparação com aplicativos nativos, o que pode afetar a aparência e a experiência do usuário. |
-|06| Compatibilidade: O React Native pode não ser compatível com todas as versões de sistemas operacionais e dispositivos móveis, o que pode limitar o público do aplicativo. |
-|07|  Falta de autenticação: O JSON-Server não oferece autenticação ou proteção de senha, o que pode ser um problema para aplicativos que lidam com dados sensíveis. |
-|08| Dados estáticos: O JSON-Server é projetado para lidar com dados estáticos, o que significa que ele não pode manipular dados em tempo real. Se os dados mudarem, será necessário reiniciar o servidor para atualizar os dados. |
-|09| Limitação de recursos: O JSON-Server pode lidar com uma quantidade limitada de dados, e se a quantidade de dados for muito grande, pode haver problemas de desempenho. Além disso, o JSON-Server não suporta recursos complexos ou relacionamentos entre recursos. |
-|10| Não escalável: O JSON-Server não é escalável e não pode lidar com grandes quantidades de tráfego ou grandes quantidades de dados em tempo real. Se a carga de tráfego for muito alta, o servidor pode falhar ou ficar lento. |
+|04| Limitações de UI personalizada: O React Native tem algumas limitações na personalização da interface do usuário em comparação com aplicativos nativos, o que pode afetar a aparência e a experiência do usuário. |
+|05| Compatibilidade: O React Native pode não ser compatível com todas as versões de sistemas operacionais e dispositivos móveis, o que pode limitar o público do aplicativo. |
+|06|  Falta de autenticação: O JSON-Server não oferece autenticação ou proteção de senha, o que pode ser um problema para aplicativos que lidam com dados sensíveis. |
+|07| Dados estáticos: O JSON-Server é projetado para lidar com dados estáticos, o que significa que ele não pode manipular dados em tempo real. Se os dados mudarem, será necessário reiniciar o servidor para atualizar os dados. |
+|08| Limitação de recursos: O JSON-Server pode lidar com uma quantidade limitada de dados, e se a quantidade de dados for muito grande, pode haver problemas de desempenho. Além disso, o JSON-Server não suporta recursos complexos ou relacionamentos entre recursos. |
+|09| Não escalável: O JSON-Server não é escalável e não pode lidar com grandes quantidades de tráfego ou grandes quantidades de dados em tempo real. Se a carga de tráfego for muito alta, o servidor pode falhar ou ficar lento. |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
