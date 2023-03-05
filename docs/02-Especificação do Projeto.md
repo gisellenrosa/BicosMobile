@@ -179,7 +179,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-![image](https://user-images.githubusercontent.com/68014636/222985552-a422d504-6941-4be6-81e4-de65460460e8.png)
+![image](https://user-images.githubusercontent.com/68014636/222985675-62037d2a-0a33-4056-80bf-83feb084b799.png)
 
 A matriz ainda não rastreou todos os artefatos da aplicação pois existem documentações e codificações pendentes.
 Assuntos como casos de teste e diagramas ainda não estão previstos nessa versão da matriz, mas serão implementados ao serem criados.
