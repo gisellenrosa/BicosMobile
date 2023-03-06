@@ -62,7 +62,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 Atualmente embora venha ocorrendo uma popularização do uso de plataformas online para a busca e oferta de vagas de emprego, as aplicações existentes nesse nicho de mercado em sua maioria são voltadas para empregos formais, assim deixando em aberto boa parte do mercado de empregos informais e alguns seguimentos dos formais que devido a diversos motivos não se adequam as plataformas.
 
-Observado esses nichos que são pouco explorados pelas plataformas existentes decidimos criar uma aplicação que se encaixa nesse mercado
+Observado esses nichos que são pouco explorados pelas plataformas existentes, decidimos criar uma aplicação que se encaixa nesse mercado.
 
 ### Descrição Geral da Proposta
 
@@ -72,7 +72,7 @@ Nossa aplicação vai atuar onde as presentes no mercado atual tem pouco alcance
 
 Processo básico de funcionamento da plataforma.
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img/BPMN1.png)
 
 ## Indicadores de Desempenho
 
