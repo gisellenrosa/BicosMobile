@@ -60,23 +60,19 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente embora venha ocorrendo uma popularização do uso de plataformas online para a busca e oferta de vagas de emprego, as aplicações existentes nesse nicho de mercado em sua maioria são voltadas para empregos formais, assim deixando em aberto boa parte do mercado de empregos informais e alguns seguimentos dos formais que devido a diversos motivos não se adequam as plataformas.
+
+Observado esses nichos que são pouco explorados pelas plataformas existentes decidimos criar uma aplicação que se encaixa nesse mercado
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Nossa aplicação vai atuar onde as presentes no mercado atual tem pouco alcance, colocando o foco principal no mercado de empregos informais, mas mantendo a plataforma aberta também para os formais, facilitando a reunião do trabalhador com o empregador.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – FUNCIONAMENTO DA PLATAFORMA
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Processo básico de funcionamento da plataforma.
 
 ![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
